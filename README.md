@@ -40,14 +40,10 @@ Technology budget (cash) Requested  (numbers ONLY)
 0.00
 Budget Plan for cash grant (max 200 words)
 How do you plan to spend any cash grants?
-List of Disability Advocacy Partners and other Stakeholders*
-List all the organizations involved in the project. If available, also list the key points of contact. If expect future stakeholders to be involved, list as well
-Does your team include people with disabilities?*
- Yes
- No
-Does your organization and/or partner organizations pay all employees with disabilities at least a minimum wage?*
-Yes
-No
-Rate your experience with global accessibility standards*
-How will the project be supported and maintained after Microsoft support?*
-Identify how the project will be supported and resourced after the conclusion of Microsoft’s assistance. Include both technical and financial support.
+List of Disability Advocacy Partners and other Stakeholders** \
+List all the organizations involved in the project. If available, also list the key points of contact. If expect future stakeholders to be involved, list as well**
+**Does your team include people with disabilities?**
+**Does your organization and/or partner organizations pay all employees with disabilities at least a minimum wage?** Yes \
+**What is your experience with global accessibility standards** \
+**w will the project be supported and maintained after Microsoft support?**
+**entify how the project will be supported and resourced after the conclusion of Microsoft’s assistance. Include both technical and financial support.**
