@@ -6,7 +6,7 @@ CrisisGuardianAI is a business friendly open source artificial intelligence syst
 
 * Tim Clemans
 * Michaela Frösing 🧩 https://www.linkedin.com/in/michaelafrosing/ HR Law expert and an end user who is actively involved in the end user design and testing it in her life 
-* Luiz Diaz
+* Luiz Diaz: Tim's full time mental health care giver and makes it possible for Tim to lead the project and gives feedback on the system's interaction with people are around a person in crisis
 
 ## Draft of application to Microsoft's AI for Accessibility Program
 
