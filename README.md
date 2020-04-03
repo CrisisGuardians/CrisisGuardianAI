@@ -6,31 +6,20 @@ CrisisGuardianAI is an artificial intelligence system designed to siginficantly 
 
 The grant application is due July 30, 2020. The form is at https://ai4prod.microsoftcrmportals.com/AIAcccessibilityGrantApplication/
 
-**Type of Organization:** Commercial 
-
-**Disability/Accessibility Lead Name:**
-
-**Disability/Accessibility Lead Organization** 
-
-**Disability/Accessibility Lead Position**
-
-**Project Title:** CrisisGuardianAI
-
-**Problem Description (50 words max) Describe the problem the project seeks to address. What pain points or gaps are you addressing? What issues exist with the current approaches that fall short?**
-
+**Type of Organization:** Commercial \
+**Disability/Accessibility Lead Name:** Tim Clemans \
+**Disability/Accessibility Lead Organization** none \
+**Disability/Accessibility Lead Position** none \
+**Project Title:** CrisisGuardianAI \
+**Problem Description (50 words max) Describe the problem the project seeks to address. What pain points or gaps are you addressing? What issues exist with the current approaches that fall short?** The project seeks to address highly severe borderline personality disorder in myself 24/7 where in patient, out patient, medication, and self education have been ineffective. \
 **Competitive Landscape (200 words max) Explain projects, products, or research that your solution builds upon or will compete against. How is yours different? What are your primary advantages?**
-Focus Area* 
-Primary Disability Segment*
-Solution Description*
-In less than 200 words, describe what you will build
-Solution Impact, Scale, and Validation*
-In less than 300 words, describe the impact you intend to have (your hypothesis) and how you will measure that impact. Describe how you will include people with disabilities in your design and validation process.
-AI Business Case*
-Explain how you will leverage Artificial Intelligence and machine learning tools and Azure services to address the problem. If the problem can be solved without AI, clarify why AI is critical to your success.
-Description of machine learning model(s) to be generated (650 words max)*
-Describe how the proposed AI models will operate. Include descriptions of how data would be inputted and processed
-List of the Project Deliverables (max 200 words)*
-In bullet points, list the project deliverables required to address the problem
+**Focus Area** Everyday life \
+**Primary Disability Segment** Mental health
+**Solution Description In less than 200 words, describe what you will build Solution Impact, Scale, and Validation**
+**In less than 300 words, describe the impact you intend to have (your hypothesis) and how you will measure that impact. Describe how you will include people with disabilities in your design and validation process.**
+**AI Business Case Explain how you will leverage Artificial Intelligence and machine learning tools and Azure services to address the problem. If the problem can be solved without AI, clarify why AI is critical to your success.**
+**Description of machine learning model(s) to be generated (650 words max) Describe how the proposed AI models will operate. Include descriptions of how data would be inputted and processed**
+**List of the Project Deliverables (max 200 words) In bullet points, list the project deliverables required to address the problem
 Deliverable Data*
 In as much detail possible, describe the type of data which will be provided. Provide the estimated amount, format, structured vs. unstructured, etc. Also describe the data sensitivity:
 Public - Represents data designed for publicly available and public consumption
