@@ -1,6 +1,6 @@
 # CrisisGuardianAI
 
-CrisisGuardianAI is an artificial intelligence system designed to siginficantly aid in the prevention, response, investigation, and recovery from behavorial crises. https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity/dp/0452296560/ref=sr_1_1?dchild=1&keywords=e-memory+gordon+bell&qid=1585922572&s=books&sr=1-1
+CrisisGuardianAI is an artificial intelligence system designed to siginficantly aid in the prevention, response, investigation, and recovery from behavorial crises. Primary users such as the project lead, Tim Clemans, will wear the Moverio BT-300 and it will be video and audio recording 24/7. Significant book on recording everything is at https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity/dp/0452296560/ref=sr_1_1?dchild=1&keywords=e-memory+gordon+bell&qid=1585922572&s=books&sr=1-1
 
 # Draft of application to Microsoft's AI for Accessibility Program
 
@@ -29,7 +29,7 @@ General - Represents organizational data which is NOT meant for public consumpti
 **Describe how the organization expects the data to be processed to meet the individual deliverables** \
 **Statement of Work This should be broken down into phases, with potential durations/timelines, with the last phase demoing impact and final results. These will be used to measure progress on quarterly check-ins with the AI4A Team** \
 **Azure Resources you will use What are the specific Azure resources being requested from Microsoft?** Azure Database for PostgreSQL, Azure Monitor \
-**Azure Budget Request  (numbers ONLY)** \
+**Azure Budget Request (numbers ONLY)** \
 **Technology budget (cash) Requested  (numbers ONLY)** 0.00 \
 **Budget Plan for cash grant (max 200 words)** \
 **How do you plan to spend any cash grants?** \
@@ -39,4 +39,4 @@ General - Represents organizational data which is NOT meant for public consumpti
 **Does your organization and/or partner organizations pay all employees with disabilities at least a minimum wage?** Yes \
 **What is your experience with global accessibility standards** \
 **How will the project be supported and maintained after Microsoft support?** \
-**Identify how the project will be supported and resourced after the conclusion of Microsoft’s assistance. Include both technical and financial support.** \
+**Identify how the project will be supported and resourced after the conclusion of Microsoft’s assistance. Include both technical and financial support.** 
