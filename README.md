@@ -1,11 +1,11 @@
 # CrisisGuardianAI
 
-CrisisGuardianAI is an artificial intelligence system designed to siginficantly aid in the prevention, response, investigation, and recovery from behavorial crises. Primary users such as the project lead, Tim Clemans, will wear the Moverio BT-300 and it will be video and audio recording 24/7. Significant book on recording everything is at https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity/dp/0452296560/ref=sr_1_1?dchild=1&keywords=e-memory+gordon+bell&qid=1585922572&s=books&sr=1-1
+CrisisGuardianAI is a business friendly open source artificial intelligence system designed to siginficantly aid in the prevention, response, investigation, and recovery from behavorial crises. Primary users such as the project lead, Tim Clemans, will wear the Moverio BT-300 and it will be video and audio recording 24/7. Significant book on recording everything is at https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity/dp/0452296560/ref=sr_1_1?dchild=1&keywords=e-memory+gordon+bell&qid=1585922572&s=books&sr=1-1
 
 ## Contributors
 
 * Tim Clemans
-* Michaela Frösing 🧩 https://www.linkedin.com/in/michaelafrosing/ An end user who is actively involved in the end user design and testing it in her life 
+* Michaela Frösing 🧩 https://www.linkedin.com/in/michaelafrosing/ HR Law expert and an end user who is actively involved in the end user design and testing it in her life 
 * Luiz Diaz
 
 ## Draft of application to Microsoft's AI for Accessibility Program
