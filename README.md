@@ -31,8 +31,7 @@ Deliverable Data** \
 General - Represents organizational data which is NOT meant for public consumption Confidential - Represents organizational data which could cause business harm if over-shared Represents very sensitive business data which would certainly cause organizational harm, and possibly individual harm, if over-shared** \
 **Deliverable Information (650 words max)** \
 **Using a narrative format, explain what will be required to achieve each deliverable. Describe what will be provided by the organization and the organization’s expectation for Microsoft List any legal jurisdictions which oversee the data provided to achieve the deliverable. If a deliverable will be a consumer product or application, list and explain the expected cost to the consumer** \
-**How will the data be analyzed and processed?** \ 
-**Describe how the organization expects the data to be processed to meet the individual deliverables** \
+**How will the data be analyzed and processed? Describe how the organization expects the data to be processed to meet the individual deliverables** \
 **Statement of Work This should be broken down into phases, with potential durations/timelines, with the last phase demoing impact and final results. These will be used to measure progress on quarterly check-ins with the AI4A Team** \
 **Azure Resources you will use What are the specific Azure resources being requested from Microsoft?** Azure Database for PostgreSQL, Azure Monitor \
 **Azure Budget Request (numbers ONLY)** \
